@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Routing Optimization
+# Food Delivery Routing Optimization
 
 This C++ project simulates and optimizes delivery routing for food orders across a grid-based city map. It models restaurants, customers, and delivery paths, and uses a brute-force approach to determine the most efficient route to fulfill multiple orders.
 
